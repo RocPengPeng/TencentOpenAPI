@@ -5,4 +5,5 @@
 ```
 # pod TencentOpenAPI
 pod 'TencentOpenAPI',   :git => 'https://github.com/Tconan99/TencentOpenAPI.git'
+https://github.com/RocPengPeng/TencentOpenAPI.git
 ```
